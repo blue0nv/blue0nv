@@ -1,6 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Improving my full-stack development skills<br>- Learning more about system design<br>- Improving my problem-solving skills <br><br>👯 I’m looking to collaborate on<br>- Open-source projects<br>- Web development projects<br>- Anything that helps me learn<br><br>🤝 I’m looking for help with<br>- Backend architecture<br>- React best practices<br>- Clean code and project structure<br><br>🌱 I’m currently learning<br>- React<br>- Node.js<br>- .NET<br>- Express<br>- SQL<br>- C++<br><br>💬 Ask me about<br>- React<br>- C++<br>- Competitive Programming<br>- Building beginner-friendly web apps<br><br>⚡ Fun fact<br>- Wrote this because everyone else did too
-
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bahaa-ghonim) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheRealBlueOne) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bahaamaher996@gmail.com) 
